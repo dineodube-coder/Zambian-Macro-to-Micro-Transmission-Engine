@@ -3,6 +3,7 @@ An interactive macroeconomic stress-testing dashboard mapping Bank of Zambia int
 
 The Zambian Macro-to-Micro Transmission Engine is an interactive macroeconomic analytics pipeline and dashboard tailored to the Zambian financial ecosystem. This project links monetary policy adjustments from the Bank of Zambia (BoZ) with Lusaka Securities Exchange (LuSE) equities and high-frequency digital financial credit books (replicating an Optasia-style fintech platform).
 
+![Zanbian Finance Dashboard](Overrall_Dashboard.png)                                                                                    
 
 Executive Project Summary
 
@@ -35,7 +36,10 @@ When the zmw_usd_rate line spikes (a weakening Kwacha), it drives up the local p
 Everyday mobile wallet users instantly face imported inflation, forcing them to exhaust their cash savings.
 Unable to manage their obligations, users stop paying back short-term micro-loans, causing delinquency column bars (delinquent_30d_plus_zmw) to expand rapidly.
 
-
+ZANACO
+![Zanbian Finance Dashboard](ZANACO_Dashboard.png)                                                                                                                                                                                                                                                                                                                                                                            
+ATEL                                                                                                                                      
+![Zanbian Finance Dashboard](ATEL_dashboard.png)                                                                                           
 
 Technical Solution Architecture
 
